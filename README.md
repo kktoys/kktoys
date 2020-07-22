@@ -8,7 +8,7 @@
 - [1688: kktoy.1688.com](http://kktoys.1688.com)
 
 ## Click to Downloads
-- [Products Catalogs.xlsx](https://github.com/kktoys/kktoys/blob/master/KKTOYS_Products.xlsx?raw=true) 👈
+- [Products Catalogs.xlsx](http://120.76.130.21:38888/KKTOYS_Products.xlsx) 👈
 
 ## Contact
 - Email: chandler@kktoys.cc 💬
