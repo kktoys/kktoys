@@ -7,8 +7,8 @@
 - [Alibaba: kktoys.cc](http://kktoys.cc) 
 - [1688: kktoy.1688.com](http://kktoys.1688.com)
 
-## Resources
-- [Product Catalog](https://github.com/kktoys/kktoys/blob/master/KKTOYS_Products.xlsx?raw=true) 👈
+## Click to Downloads
+- [KKTOYS_Products_Catalogs.xlsx](https://github.com/kktoys/kktoys/blob/master/KKTOYS_Products.xlsx?raw=true) 👈
 
 ## Contact
 - Email: chandler@kktoys.cc 💬
